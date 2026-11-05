@@ -1,0 +1,301 @@
+date,region,marche,denree,unite,prix
+2025-08-15,Dakar,Thiaroye,Maize (local),KG,300
+2025-06-15,Diourbel,Bambey,Sorghum,KG,500
+2025-11-15,Diourbel,Bambey,Groundnuts (shelled),KG,950
+2025-08-15,Fatick,Fatick,Groundnuts (unshelled),KG,450
+2025-07-15,Thies,Thilmakha,Millet,KG,400
+2025-11-15,Ziguinchor,Bignona,Rice (local),KG,500
+2025-10-15,Diourbel,Diourbel,Rice (imported),KG,375
+2025-10-15,Ziguinchor,Saint-Maur,Sorghum,KG,500
+2025-10-15,Tambacounda,Tambacounda,Sorghum (imported),KG,333.33
+2025-07-15,Diourbel,Touba,"Rice (ordinary, first quality)",KG,550
+2025-10-15,Louga,Gouille Mbeuth,Maize (imported),KG,250
+2025-10-15,Thies,Touba Toul,"Rice (ordinary, first quality)",KG,500
+2025-08-15,Kaffrine,Kaffrine,Groundnuts (unshelled),KG,800
+2025-06-15,Kaolack,Porokhane,Millet,KG,217.5
+2025-03-15,Tambacounda,Kouthiaba,Rice (imported),KG,450
+2025-01-15,Dakar,Thiaroye,Maize (local),KG,300
+2025-08-15,Matam,Ourossogui,Maize (local),KG,350
+2025-01-15,Thies,Mbafaye,Groundnuts (unshelled),KG,350
+2025-02-15,Fatick,Keur I. Yacine,"Rice (ordinary, first quality)",KG,540
+2025-04-15,Kaffrine,Kaffrine,Millet,KG,200
+2025-11-15,Matam,Ourossogui,Maize (local),KG,388
+2025-02-15,Diourbel,Diourbel,Millet,KG,300
+2025-06-15,Kolda,Kolda,Rice (local),KG,600
+2025-01-15,Diourbel,Touba,Maize (local),KG,200
+2025-11-15,Matam,Orkodiere,Rice (local),KG,400
+2025-12-15,Thies,Thies,Sorghum,KG,300
+2025-09-15,Kolda,Diaobe,Sorghum,KG,250
+2025-07-15,Diourbel,Touba,Rice (imported),KG,345
+2025-09-15,Kedougou,Kedougou,Rice (local),KG,350
+2025-04-15,Matam,Thiodaye,Sorghum,KG,393.75
+2025-03-15,Kaolack,N'Doffane,Groundnuts (shelled),KG,768.75
+2025-05-15,Tambacounda,Bakel,"Rice (ordinary, first quality)",KG,600
+2025-03-15,Thies,Touba Toul,Groundnuts (shelled),KG,650
+2025-05-15,Diourbel,Diourbel,Millet,KG,300
+2025-05-15,Fatick,Fatick,Groundnuts (shelled),KG,800
+2025-11-15,Kolda,Sare Yoba,Groundnuts (shelled),KG,800
+2025-05-15,Kolda,Diaobe,Sorghum,KG,250
+2025-10-15,Kolda,Kolda,Millet,KG,300
+2025-07-15,Kolda,Sare Yoba,Millet,KG,300
+2025-08-15,Thies,Touba Toul,Maize (imported),KG,350
+15/01/2025,Tambacounda,Mereto,Sorghum (imported),KG,350
+2025-09-15,Ziguinchor,Bignona,Beans (niebe),KG,1100
+2025-04-15,Ziguinchor,Saint-Maur,Sorghum,KG,500
+2025-01-15,Ziguinchor,Bignona,Beans (niebe),KG,1000
+2025-08-15,Dakar,Thiaroye,"Rice (ordinary, first quality)",KG,500
+2025-07-15,Tambacounda,Mereto,Groundnuts (shelled),KG,1025
+2025-04-15,Kaolack,N'Doffane,Groundnuts (unshelled),KG,331.25
+2025-04-15,Kaffrine,Kaffrine,"Rice (ordinary, first quality)",KG,600
+2025-06-15,Matam,Thiodaye,Sorghum,KG,400
+2025-02-15,Matam,Orkodiere,Rice (local),KG,425
+2025-12-15,Matam,Ourossogui,Groundnuts (shelled),KG,750
+2025-08-15,Ziguinchor,Saint-Maur,Sorghum,KG,500
+2025-09-15,Saint Louis,Saint-Louis,"Rice (ordinary, first quality)",KG,600
+2025-09-15,Thies,Thies,Rice (imported),KG,350
+2025-08-15,Fatick,Keur I. Yacine,Groundnuts (unshelled),KG,490
+2025-04-15,Matam,Orkodiere,Sorghum,KG,400
+2025-01-15,Fatick,Missirah,Groundnuts (unshelled),KG,320
+2025-12-15,Diourbel,Touba,"Rice (ordinary, first quality)",KG,500
+2025-09-15,Tambacounda,Mereto,Beans (niebe),KG,491.67
+2025-05-15,Kaolack,Porokhane,Rice (imported),KG,370
+2025-05-15,Kaolack,Kaolack,Millet,KG,212.5
+2025-06-15,Saint Louis,Saint-Louis,"Rice (ordinary, first quality)",KG
+2025-06-15,Diourbel,Diourbel,Rice (local),KG,420
+2025-01-15,Ziguinchor,Saint-Maur,Rice (imported),KG,400
+2025-05-15,Tambacounda,Kouthiaba,Rice (imported),KG,375
+2025-08-15,Kaffrine,Kaffrine,Sorghum,KG,266.67
+2025-08-15,Dakar,Tilene,Millet,KG,316.67
+2025-07-15,Kaolack,Kaolack,Beans (niebe),KG,833.33
+2025-12-15,Louga,Ndiagne,Sorghum (imported),KG,350
+2025-02-15,Kaffrine,Kaffrine,Maize (local),KG,200
+2025-06-15,Fatick,Diakhao,Millet,KG,"300,5"
+2025-07-15,Kedougou,Mako,Rice (imported),KG,375
+2025-11-15,Kolda,Kolda,Rice (local),KG,600
+2025-10-15,Louga,Sagatta,Millet,KG,316.67
+2025-12-15,Louga,Ndiagne,Millet,KG,350
+2025-08-15,Kolda,Diaobe,"Rice (ordinary, first quality)",KG,550
+2025-12-15,Matam,Ourossogui,Rice (imported),KG,400
+2025-07-15,Diourbel,Touba,Sorghum,KG,260
+2025-05-15,Tambacounda,Bakel,Groundnuts (shelled),KG,800
+2025-07-15,Matam,Thiodaye,Sorghum,KG,400
+2025-04-15,Dakar,Tilene,Millet,KG,250
+2025-11-15,Ziguinchor,Saint-Maur,Beans (niebe),KG,1000
+2025-06-15,Diourbel,Bambey,Rice (local),KG,"420,5"
+2025-08-15,Diourbel,Ndindy,Rice (local),KG,440
+2025-07-15,Dakar,Tilene,Millet,KG,300
+2025-07-15,Kolda,Kolda,Groundnuts (shelled),KG,1100
+2025-07-15,Louga,Louga,Rice (local),KG,375
+2025-01-15,Fatick,Passy,Millet,KG,241.67
+2025-08-15,Fatick,Keur I. Yacine,Maize (imported),KG,275
+2025-03-15,Louga,Louga,Rice (local),KG,
+2025-10-15,Tambacounda,Mereto,Millet,KG,-316.67
+2025-02-15,Kedougou,Mako,Groundnuts (shelled),KG,1000
+2025-11-15,Matam,Ourossogui,Beans (niebe),KG,900
+2025-01-15,Kolda,Diaobe,Groundnuts (shelled),KG,650
+2025-09-15,Saint Louis,Saint-Louis,Groundnuts (shelled),KG,1250
+2025-07-15,Matam,Thiodaye,Maize (imported),KG,"333,33"
+2025-12-15,Tambacounda,Tambacounda,Beans (niebe),KG,800
+2025-09-15,Fatick,Passy,Sorghum,KG,245
+2025-02-15,Fatick,Diakhao,Rice (imported),KG,425
+2025-09-15,Thies,Thies,Sorghum (imported),KG,350
+2025-08-15,Sedhiou,Sedhiou,Maize (local),KG,400
+2025-06-15,Fatick,Fatick,Groundnuts (unshelled),KG,320
+2025-06-15,Thies,Mbafaye,Beans (niebe),KG,916.67
+2025-02-15,Matam,Orkodiere,Groundnuts (unshelled),KG,500
+2025-07-15,Dakar,Thiaroye,Sorghum (imported),KG,325
+2025-12-15,Tambacounda,Mereto,Millet,KG,256
+2025-03-15,Matam,Ourossogui,Millet,KG,325
+2025-12-15,Kaolack,Kaolack,Maize (imported),KG,195
+2025-12-15,Tambacounda,Tambacounda,Maize (local),KG,250
+2025-02-15,Kaolack,N'Doffane,Groundnuts (shelled),KG,766.67
+2025-08-15,Tambacounda,Kouthiaba,Millet,KG,300
+2025-09-15,Matam,Thiodaye,Beans (niebe),KG,"1050,5"
+2025-06-15,Matam,Thiodaye,Rice (local),KG,450
+2025-09-15,Kaolack,N'Doffane,Maize (local),KG,218.33
+2025-06-15,Thies,Mbafaye,Rice (imported),KG,350
+2025-09-15,Thies,Mbafaye,Rice (local),KG,425
+2025-07-15,Thies,Touba Toul,Rice (imported),KG,350
+2025-03-15,Thies,Touba Toul,Sorghum,KG,400
+2025-08-15,Diourbel,Bambey,Rice (local),KG,450
+2025-05-15,Tambacounda,Mereto,Groundnuts (unshelled),KG,375
+2025-09-15,Fatick,Passy,Millet,KG,290
+2025-04-15,Matam,Orkodiere,Maize (local),KG,320
+2025-07-15,Thies,Thilmakha,"Rice (ordinary, first quality)",KG,500
+2025-11-15,Kedougou,Mako,Maize (local),KG,370
+2025-09-15,Dakar,Tilene,"Rice (ordinary, first quality)",KG,500
+2025-07-15,Kaolack,Ndrame Escale,Rice (imported),KG,370
+2025-09-15,Matam,Ourossogui,Groundnuts (shelled),KG,1033.33
+2025-07-15,Dakar,Tilene,Maize (local),KG,300
+2025-11-15,Kolda,Sare Yoba,Beans (niebe),KG,600
+2025-06-15,Fatick,Keur I. Yacine,Groundnuts (shelled),KG,900
+2025-03-15,Kaffrine,Mabo,Maize (imported),KG,250
+2025-04-15,Kaolack,Porokhane,Rice (imported),KG,373.75
+2025-11-15,Tambacounda,Mereto,Maize (imported),KG,313
+2025-04-15,Diourbel,Touba,Maize (local),KG,220
+2025-01-15,Diourbel,Ndindy,Maize (imported),KG,
+2025-01-15,Kaffrine,Kaffrine,Beans (niebe),KG,600
+2025-02-15,Tambacounda,Bakel,Rice (imported),KG,450
+2025-09-15,Diourbel,Ndindy,Rice (local),KG,425
+2025-12-15,Tambacounda,Kouthiaba,Maize (imported),KG,300
+2025-08-15,Kedougou,Mako,Groundnuts (shelled),KG,"1000,5"
+2025-06-15,Matam,Thiodaye,Groundnuts (unshelled),KG,500
+2025-11-15,Kolda,Sare Yoba,Maize (local),KG,250
+2025-07-15,Matam,Ourossogui,Groundnuts (shelled),KG,825
+2025-07-15,Diourbel,Touba,Maize (imported),KG,235
+2025-05-15,Fatick,Keur I. Yacine,Rice (local),KG,400
+2025-03-15,Fatick,Passy,Beans (niebe),KG,662.5
+2025-04-15,Dakar,Thiaroye,Maize (local),KG,225
+2025-09-15,Louga,Louga,"Rice (ordinary, first quality)",KG,n.d.
+2025-07-15,Diourbel,Diourbel,Maize (imported),KG,300
+2025-06-15,Tambacounda,Mereto,Groundnuts (shelled),KG,800
+2025-07-15,Kolda,Diaobe,Groundnuts (unshelled),KG,385
+2025-10-15,Tambacounda,Mereto,Sorghum (imported),KG,325
+2025-11-15,Sedhiou,Sedhiou,Rice (local),KG,500
+2025-07-15,Kaolack,Kaolack,Millet,KG,229
+2025-11-15,Louga,Sagatta,Rice (imported),KG,370
+2025-06-15,Fatick,Passy,Rice (local),KG,296.67
+15/08/2025,Dakar,Thiaroye,Sorghum (imported),KG,325
+2025-09-15,Fatick,Fatick,Groundnuts (shelled),KG,1200
+2025-01-15,Kaffrine,Kaffrine,Groundnuts (unshelled),KG,325
+2025-11-15,Tambacounda,Kouthiaba,Groundnuts (shelled),KG,800
+2025-04-15,Kaolack,Kaolack,Groundnuts (shelled),KG,850
+2025-04-15,Saint Louis,Mpal,Beans (niebe),KG,825
+2025-06-15,Matam,Thiodaye,Beans (niebe),KG,900
+2025-11-15,Louga,Louga,Millet,KG,306
+2025-02-15,Diourbel,Diourbel,Rice (imported),KG,450
+2025-06-15,Kaolack,N'Doffane,"Rice (ordinary, first quality)",KG,402.5
+2025-09-15,Louga,Ndiagne,Rice (local),KG,-350
+2025-11-15,Diourbel,Ndindy,"Rice (ordinary, first quality)",KG,525
+2025-07-15,Louga,Gouille Mbeuth,Millet,KG,288.75
+2025-04-15,Dakar,Tilene,Rice (imported),KG,500
+2025-06-15,Louga,Louga,Rice (imported),KG,370
+2025-03-15,Diourbel,Touba,Maize (imported),KG,220
+2025-06-15,Fatick,Diakhao,Rice (imported),KG,350
+2025-10-15,Dakar,Thiaroye,Sorghum (imported),KG,300
+2025-01-15,Matam,Thiodaye,Groundnuts (shelled),KG,800
+2025-09-15,Dakar,Thiaroye,Rice (imported),KG,450
+2025-04-15,Diourbel,Ndindy,Maize (imported),KG,
+2025-05-15,Kedougou,Kedougou,Rice (local),KG,350
+2025-02-15,Dakar,Thiaroye,Sorghum (imported),KG,325
+2025-03-15,Fatick,Keur I. Yacine,"Rice (ordinary, first quality)",KG,540
+2025-10-15,Kolda,Sare Yoba,Millet,KG,300
+2025-12-15,Kaolack,Porokhane,Groundnuts (shelled),KG,500
+2025-05-15,Ziguinchor,Bignona,Maize (local),KG,400
+2025-02-15,Saint Louis,Mpal,Rice (local),KG,375
+2025-06-15,Kolda,Kolda,Rice (imported),KG,350
+2025-01-15,Fatick,Diakhao,Millet,KG,300
+2025-01-15,Ziguinchor,Saint-Maur,Groundnuts (unshelled),KG,500
+2025-01-15,Dakar,Tilene,Maize (imported),KG,300
+2025-06-15,Louga,Gouille Mbeuth,Rice (imported),KG,370
+2025-08-15,Fatick,Passy,Rice (local),KG,325
+2025-07-15,Thies,Touba Toul,Beans (niebe),KG,975
+2025-11-15,Thies,Mbafaye,Groundnuts (shelled),KG,1000
+2025-01-15,Thies,Thies,Groundnuts (shelled),KG,730
+2025-08-15,Louga,Louga,Rice (local),KG,360
+2025-11-15,Kaolack,N'Doffane,Millet,KG,275
+2025-03-15,Fatick,Passy,Rice (local),KG,375
+15/03/2025,Thies,Thies,Rice (local),KG,400
+2025-02-15,Kaolack,N'Doffane,Maize (local),KG,195
+2025-08-15,Saint Louis,Saint-Louis,"Rice (ordinary, first quality)",KG,600
+2025-01-15,Kedougou,Mako,Beans (niebe),KG,"1000,5"
+2025-10-15,Louga,Gouille Mbeuth,Rice (local),KG,360
+2025-04-15,Diourbel,Ndindy,Groundnuts (unshelled),KG,350
+2025-09-15,Fatick,Keur I. Yacine,Beans (niebe),KG,750
+2025-10-15,Matam,Thiodaye,Maize (imported),KG,325
+2025-08-15,Thies,Thies,Maize (local),KG,350
+2025-05-15,Fatick,Gossas,Millet,KG,290
+2025-02-15,Tambacounda,Mereto,Sorghum,KG,300
+2025-01-15,Diourbel,Bambey,Rice (imported),KG,450
+2025-04-15,Matam,Thiodaye,Millet,KG,400
+2025-09-15,Fatick,Gossas,Maize (local),KG,300
+2025-08-15,Kaffrine,Birkelane,"Rice (ordinary, first quality)",KG,600
+2025-08-15,Fatick,Gossas,Sorghum,KG,400
+15/10/2025,Thies,Mbafaye,Rice (local),KG,425
+2025-12-15,Kedougou,Salémata,Maize (local),KG,300
+2025-07-15,Fatick,Diakhao,Maize (imported),KG,300
+2025-09-15,Louga,Ndiagne,Sorghum,KG,400
+2025-09-15,Thies,Touba Toul,Groundnuts (unshelled),KG,500
+15/02/2025,Louga,Gouille Mbeuth,Maize (imported),KG,275
+2025-07-15,Thies,Touba Toul,Rice (local),KG,425
+2025-03-15,Louga,Gouille Mbeuth,Beans (niebe),KG,662.5
+2025-06-15,Thies,Touba Toul,Maize (local),KG,337.5
+2025-08-15,Kaolack,Kaolack,"Rice (ordinary, first quality)",KG,475
+2025-02-15,Kolda,Diaobe,Groundnuts (unshelled),KG,305
+2025-08-15,Kedougou,Salémata,Rice (imported),KG,400
+2025-12-15,Matam,Ourossogui,Sorghum,KG,400
+2025-09-15,Louga,Louga,Rice (local),KG,360
+2025-07-15,Kedougou,Kedougou,Rice (local),KG,350
+2025-04-15,Kaolack,N'Doffane,Maize (local),sac,220.75
+2025-01-15,Thies,Touba Toul,Rice (imported),KG,425
+2025-06-15,Dakar,Thiaroye,Rice (imported),KG,500
+2025-02-15,Thies,Thies,Millet,KG,300
+2025-02-15,Louga,Gouille Mbeuth,Millet,KG,275
+2025-11-15,Diourbel,Bambey,Rice (local),KG,440
+2025-08-15,Kaffrine,Kaffrine,Beans (niebe),KG,650
+2025-04-15,Louga,Louga,Rice (local),KG,366.67
+2025-07-15,Kedougou,Salémata,Maize (local),KG,500
+2025-05-15,Ziguinchor,Bignona,"Rice (ordinary, first quality)",KG,600
+2025-05-15,Matam,Thiodaye,Groundnuts (unshelled),KG,
+2025-02-15,Saint Louis,Saint-Louis,Sorghum (imported),KG,350
+2025-07-15,Matam,Orkodiere,"Rice (ordinary, first quality)",KG,n.d.
+2025-11-15,Louga,Ndiagne,Groundnuts (unshelled),KG,270
+2025-03-15,Fatick,Missirah,"Rice (ordinary, first quality)",KG,600
+2025-05-15,Kolda,Diaobe,"Rice (ordinary, first quality)",KG,550
+2025-02-15,Fatick,Fatick,Sorghum (imported),KG,265
+2025-05-15,Matam,Thiodaye,Rice (local),KG,450
+2025-12-15,Thies,Mbafaye,Millet,KG,325
+2025-01-15,Tambacounda,Kouthiaba,Sorghum,sac,262.5
+2025-01-15,Kolda,Sare Yoba,Maize (local),KG,287.5
+2025-11-15,Tambacounda,Mereto,Groundnuts (unshelled),KG,400
+2025-05-15,Diourbel,Bambey,Groundnuts (shelled),KG,850
+2025-09-15,Dakar,Tilene,Rice (imported),KG,450
+2025-05-15,Fatick,Diakhao,Rice (imported),KG,380
+2025-10-15,Thies,Mbafaye,Sorghum,KG,350
+2025-01-15,Fatick,Passy,Rice (local),KG,425
+2025-01-15,Fatick,Passy,Rice (imported),KG,n.d.
+2025-07-15,Kolda,Diaobe,"Rice (ordinary, first quality)",KG,550
+2025-06-15,Thies,Thilmakha,Beans (niebe),KG,975
+2025-04-15,Tambacounda,Tambacounda,Groundnuts (shelled),KG,800
+2025-09-15,Kedougou,Salémata,Rice (imported),KG,400
+2025-04-15,Louga,Gouille Mbeuth,Rice (local),KG,365
+2025-06-15,Kolda,Kolda,Sorghum,KG,300
+2025-04-15,Tambacounda,Tambacounda,Maize (local),KG,320
+2025-02-15,Kaolack,N'Doffane,"Rice (ordinary, first quality)",KG,450
+2025-07-15,Kaolack,Kaolack,Rice (local),KG,350
+2025-08-15,Fatick,Fatick,Sorghum,KG,"400,5"
+2025-08-15,Saint Louis,Mpal,Millet,sac,300
+2025-02-15,Ziguinchor,Saint-Maur,Groundnuts (unshelled),KG,750
+2025-02-15,Tambacounda,Mereto,Rice (imported),KG,450
+2025-08-15,Kaolack,Ndrame Escale,Millet,KG,215
+2025-07-15,Matam,Orkodiere,Rice (imported),KG
+2025-03-15,Kaolack,Kaolack,Maize (imported),KG,220
+2025-06-15,Fatick,Passy,Millet,KG,"260,5"
+15/08/2025,Sedhiou,Sedhiou,Beans (niebe),KG,1250
+2025-04-15,Thies,Thilmakha,"Rice (ordinary, first quality)",KG,500
+2025-06-15,Saint Louis,Mpal,Rice (imported),KG,350
+2025-08-15,Kedougou,Salémata,Rice (local),KG,625
+2025-03-15,Matam,Thiodaye,Groundnuts (unshelled),KG,500
+2025-09-15,Kedougou,Kedougou,Maize (local),KG,250
+2025-01-15,Sedhiou,Sedhiou,Rice (local),KG,600
+2025-07-15,Thies,Thilmakha,Maize (imported),KG,350
+2025-05-15,Tambacounda,Kouthiaba,"Rice (ordinary, first quality)",KG,600
+2025-01-15,Kaolack,Kaolack,Maize (local),KG,218.75
+2025-03-15,Fatick,Keur I. Yacine,Groundnuts (unshelled),KG,400
+2025-09-15,Dakar,Tilene,Groundnuts (shelled),KG,1225
+2025-03-15,Dakar,Thiaroye,Maize (imported),KG,300
+2025-01-15,Kedougou,Salémata,Maize (local),KG,293.75
+2025-09-15,Dakar,Thiaroye,Millet,KG,300
+2025-07-15,Thies,Thies,Groundnuts (unshelled),KG,475
+2025-11-15,Thies,Touba Toul,Sorghum,KG,330
+2025-01-15,Kolda,Diaobe,"Rice (ordinary, first quality)",KG,600
+2025-06-15,Louga,Gouille Mbeuth,"Rice (ordinary, first quality)",KG,500
+2025-12-15,Louga,Sagatta,"Rice (ordinary, first quality)",KG,600
+2025-10-15,Matam,Orkodiere,Rice (imported),KG,382.5
+2025-08-15,Thies,Thilmakha,"Rice (ordinary, first quality)",KG,500
+2025-03-15,Fatick,Fatick,Millet,KG,300
+2025-07-15,Diourbel,Bambey,Rice (imported),KG,350
+2025-09-15,Tambacounda,Mereto,Groundnuts (shelled),KG,1066.67
+2025-12-15,Matam,Thiodaye,Rice (imported),KG,400
+2025-01-15,Fatick,Keur I. Yacine,Maize (imported),KG,250
+2025-08-15,Ziguinchor,Saint-Maur,Groundnuts (unshelled),KG,800
