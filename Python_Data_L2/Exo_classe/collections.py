@@ -2,30 +2,30 @@ couleurs = ("rouge", "vert", "bleu", "rouge","vert")
 
 
 # print(couleurs[4])
-print(couleurs.index("vert")) 
+print(couleurs.index("vert"))
 print(couleurs.count("rouge"))
 
-list_couleur  =  list(couleurs) # tuple pour convertir en tuple 
+list_couleur  =  list(couleurs) # tuple pour convertir en tuple
 print(couleurs)
 print(list_couleur)
 
 
-# Les ensembles  set 
+# Les ensembles  set
 nombres = {1, 2, 3, 1}
 print(nombres)
-# ajout 
+# ajout
 nombres.add(10)
 print(nombres)
 #supprimer
 nombres.remove(1)
 print(nombres)
 nombres.discard(1)
-# Extrait 
+# Extrait
 N = nombres.pop()
 print(nombres)
 print(N)
 
-import random 
+import random
 A = set()
 B = set()
 for _ in range(10):
@@ -38,4 +38,3 @@ print(f"Union {A.union(B)}")
 print(f"Intersection {A.intersection(B)}")
 print(f"Différence {A.difference(B)}")
 print(f"Différence {B.difference(A)}")
-

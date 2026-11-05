@@ -33,8 +33,8 @@
 # else:
 #     print(f" {n} n'est pas parfait ")
 
-# Ecrire un programme qui permet de remplir aléatoirement  une liste de 10 entiers 
-# le programme creer une liste ne contenant que les nombre paire et une autre contenant uniquement les multiples de 3 
+# Ecrire un programme qui permet de remplir aléatoirement  une liste de 10 entiers
+# le programme creer une liste ne contenant que les nombre paire et une autre contenant uniquement les multiples de 3
 import random
 
 

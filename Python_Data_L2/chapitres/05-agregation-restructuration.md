@@ -152,7 +152,7 @@ moy.loc[("Dakar", "Millet")]
 ```
 
 ```text
-region  denree                
+region  denree
 Dakar   Beans (niebe)             971.6
         Groundnuts (shelled)      857.2
         Groundnuts (unshelled)    929.7
@@ -195,7 +195,7 @@ recents.groupby("denree")["prix"].agg(["count", "mean", "median", "min", "max"])
 
 ```text
                         count   mean  median    min     max
-denree                                                     
+denree
 Beans (niebe)             376  848.6   879.2  375.0  1250.0
 Groundnuts (shelled)      394  887.2   850.0  400.0  1500.0
 Groundnuts (unshelled)    302  456.2   384.2  250.0  1150.0
@@ -221,7 +221,7 @@ resume.sort_values("releves", ascending=False).head(5)
 
 ```text
              releves  marches  denrees  prix_median
-region                                             
+region
 Fatick           448        6       11       350.00
 Thies            404        4       11       400.00
 Tambacounda      397        4       11       350.00
@@ -253,7 +253,7 @@ recents.groupby("denree")["prix"].agg(["min", "max", etendue]).sort_values("eten
 
 ```text
                           min     max  etendue
-denree                                        
+denree
 Groundnuts (shelled)    400.0  1500.0   1100.0
 Groundnuts (unshelled)  250.0  1150.0    900.0
 Beans (niebe)           375.0  1250.0    875.0
@@ -512,7 +512,7 @@ compare.dropna().sort_values("hausse_pct", ascending=False)
 
 ```text
                    2019   2025  hausse_pct
-denree                                    
+denree
 Maize (local)     210.0  300.0        42.9
 Rice (local)      300.0  425.0        41.7
 Sorghum           250.0  350.0        40.0
@@ -536,7 +536,7 @@ grille.round(0)
 
 ```text
 denree       Maize (local)  Millet  Rice (imported)  Sorghum
-region                                                      
+region
 Dakar                300.0   300.0            450.0    350.0
 Diourbel             275.0   275.0            375.0    450.0
 Fatick               283.0   290.0            375.0    316.0
@@ -592,7 +592,7 @@ evolution.round(0)
 
 ```text
 denree  Maize (local)  Millet  Rice (imported)  Sorghum  Toutes
-annee                                                          
+annee
 2019            210.0   225.0            300.0    250.0   250.0
 2020            220.0   264.0            325.0    250.0   275.0
 2021            248.0   250.0            325.0    250.0   275.0

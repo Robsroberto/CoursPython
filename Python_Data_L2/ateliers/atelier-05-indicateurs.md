@@ -72,7 +72,7 @@ Le mil a 9 484 relevés, l'arachide en coque 1 667.
 
 ```text
              releves  marches  denrees    premier    dernier
-region                                                      
+region
 Sedhiou           38        1        8 2025-01-15 2025-11-15
 Kaffrine          88        3        7 2025-01-15 2025-08-15
 Saint Louis      126        2        8 2025-01-15 2025-11-15
@@ -104,7 +104,7 @@ Saint Louis      126        2        8 2025-01-15 2025-11-15
 
 ```text
                       plus_chere  prix_max moins_chere  prix_min  rapport
-nom_fr                                                                   
+nom_fr
 Arachide en coque          Dakar     975.0    Kedougou     305.0     3.20
 Mil                     Kedougou     425.0    Kaffrine     200.0     2.12
 Maïs local            Ziguinchor     400.0    Kaffrine     200.0     2.00
@@ -179,7 +179,7 @@ Kaffrine        83.7
 
 ```text
 nom_fr  Maïs local    Mil  Riz importé  Riz local  Sorgho
-annee                                                    
+annee
 2019         210.0  225.0        300.0      300.0   250.0
 2020         220.0  264.0        325.0      300.0   250.0
 2021         248.0  250.0        325.0      300.0   250.0
@@ -209,7 +209,7 @@ Hausses de 2019 à 2025 : maïs local 42,9 %, riz local 41,7 %, sorgho 40,0 %, m
 
 ```text
             ecart_saison_pct  mois_le_plus_cher
-region                                         
+region
 Thies                   60.0                  9
 Kaffrine                50.0                  8
 Sedhiou                 40.1                  7

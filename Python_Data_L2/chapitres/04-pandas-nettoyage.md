@@ -70,22 +70,22 @@ prix.info()
 <class 'pandas.DataFrame'>
 RangeIndex: 52021 entries, 0 to 52020
 Data columns (total 16 columns):
- #   Column        Non-Null Count  Dtype  
----  ------        --------------  -----  
- 0   date          52021 non-null  str    
- 1   admin1        52021 non-null  str    
- 2   admin2        52021 non-null  str    
- 3   market        52021 non-null  str    
- 4   market_id     52021 non-null  int64  
+ #   Column        Non-Null Count  Dtype
+---  ------        --------------  -----
+ 0   date          52021 non-null  str
+ 1   admin1        52021 non-null  str
+ 2   admin2        52021 non-null  str
+ 3   market        52021 non-null  str
+ 4   market_id     52021 non-null  int64
  5   latitude      52021 non-null  float64
  6   longitude     52021 non-null  float64
- 7   category      52021 non-null  str    
- 8   commodity     52021 non-null  str    
- 9   commodity_id  52021 non-null  int64  
- 10  unit          52021 non-null  str    
- 11  priceflag     52021 non-null  str    
- 12  pricetype     52021 non-null  str    
- 13  currency      52021 non-null  str    
+ 7   category      52021 non-null  str
+ 8   commodity     52021 non-null  str
+ 9   commodity_id  52021 non-null  int64
+ 10  unit          52021 non-null  str
+ 11  priceflag     52021 non-null  str
+ 12  pricetype     52021 non-null  str
+ 13  currency      52021 non-null  str
  14  price         52021 non-null  float64
  15  usdprice      52021 non-null  float64
 dtypes: float64(4), int64(2), str(10)
